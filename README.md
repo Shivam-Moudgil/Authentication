@@ -10,5 +10,5 @@ npm start ;--- to run the server:-
 
 
 Frontend :-
-npm i
+npm i  </br>
 npm run dev
