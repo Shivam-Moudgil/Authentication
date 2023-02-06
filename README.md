@@ -3,9 +3,12 @@ https://auth-beige.vercel.app/
 
 npm install 
 
-Server i on localhost ;--
+Server is on localhost ;--
+</br>
 Api are on localhost:--
+</br>
 npm i
+</br>
 npm start ;--- to run the server:-
 
 
